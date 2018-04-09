@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	font: 14pt 'Alike', sans-serif;
+}
+canvas {
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#canvas_background {
+	background-color: black;
+	border: 1px solid white;
+}

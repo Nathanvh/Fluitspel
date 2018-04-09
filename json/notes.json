@@ -1,0 +1,44 @@
+{
+	"Notes": {
+		"C": {
+			"flute": "../images/C.png",
+			"stave": "../images/Cstave.png"
+		},
+		"D": {
+			"flute": "../images/D.png",
+			"stave": "../images/Dstave.png"
+		},
+		"E": {
+			"flute": "../images/E.png",
+			"stave": "../images/Estave.png"
+		},
+		"F": {
+			"flute": "../images/F.png",
+			"stave": "../images/Fstave.png"
+		},
+		"G": {
+			"flute": "../images/G.png",
+			"stave": "../images/Gstave.png"
+		},
+		"A": {
+			"flute": "../images/A.png",
+			"stave": "../images/Astave.png"
+		},
+		"B": {
+			"flute": "../images/B.png",
+			"stave": "../images/Bstave.png"
+		},
+		"C-hoog": {
+			"flute": "../images/C-hoog.png",
+			"stave": "../images/C-hoogstave.png"
+		},
+		"D-hoog": {
+			"flute": "../images/D-hoog.png",
+			"stave": "../images/D-hoogstave.png"
+		},
+		"E-hoog": {
+			"flute": "../images/E-hoog.png",
+			"stave": "../images/E-hoogstave.png"
+		},
+	}
+}
